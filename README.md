@@ -4,6 +4,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dalr0p) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marcosfoley) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dalr0p) 
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/d4lr0p.png" alt="TryHackMe">
 
 # 💻 Tech Stack:
