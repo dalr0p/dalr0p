@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working in LTIMindtree as Cybersecurity Engineer<br>👯 I’m looking to collaborate on Bug Bounty Frameworks<br>🤝 I’m looking for help with XSS<br>🌱 I’m currently learning Azure <br>💬 Ask me about anything<br>
+🔭 I’m currently working in LTIMindtree as Cybersecurity Engineer<br>👯 I’m looking to collaborate on Bug Bounty Automations<br>🤝 I’m looking for help with my Bug Bounty Framework<br>🌱 I’m currently learning Cross-Site Scripting<br>💬 Ask me about anything<br>
 
 
 ## 🌐 Socials:
